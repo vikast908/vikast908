@@ -60,16 +60,13 @@ Senior AI Product Manager at **Trinka AI** with 8+ years driving product strateg
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vikast908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikast908&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=vikast908&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vikast908&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=vikast908&color=6C63FF&style=flat-square&label=Profile+Views)</div>
 
 ---
 
