@@ -122,6 +122,8 @@ Side projects to stay hands-on with emerging AI patterns:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Agent Orchestration & Automation**
@@ -130,6 +132,7 @@ Side projects to stay hands-on with emerging AI patterns:
 ![Langflow](https://img.shields.io/badge/Langflow-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langchain&logoColor=white)
 ![Mem0](https://img.shields.io/badge/Mem0-6C63FF?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **Cloud & Development**
 
@@ -139,12 +142,14 @@ Side projects to stay hands-on with emerging AI patterns:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 **Analytics**
 
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-276EF1?style=flat-square&logo=amplitude&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
 
 **Design & PM Tools**
 
