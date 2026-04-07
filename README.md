@@ -123,8 +123,18 @@ Side projects to stay hands-on with emerging AI patterns:
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0A6DC2?style=flat-square&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Vector Databases**
+
+![pgvector](https://img.shields.io/badge/pgvector-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D1A0?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
 **Agent Orchestration & Automation**
 
@@ -133,6 +143,7 @@ Side projects to stay hands-on with emerging AI patterns:
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langchain&logoColor=white)
 ![Mem0](https://img.shields.io/badge/Mem0-6C63FF?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=flat-square&logoColor=white)
 
 **Cloud & Development**
 
@@ -159,6 +170,7 @@ Side projects to stay hands-on with emerging AI patterns:
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 **Product Craft**
 
