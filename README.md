@@ -148,12 +148,7 @@ Side projects to stay hands-on with emerging AI patterns:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikast908&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikast908&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=vikast908&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikast908&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
