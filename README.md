@@ -1,22 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6C63FF&height=230&section=header&text=Vikas%20Tiwari&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Senior%20AI%20Product%20Manager%20%E2%80%A2%20Building%20Products%20at%20the%20Intersection%20of%20AI%20%26%20UX&descSize=16&descAlignY=52&descColor=d4d4d8&animation=fadeIn)
+# Vikas Tiwari
+
+**Senior AI Product Manager | Building Products at the Intersection of AI & UX**
 
 [![Portfolio](https://img.shields.io/badge/vikastw.com-Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikastw.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikast908)
 [![Email](https://img.shields.io/badge/Email-vikast908-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikast908@gmail.com)
-
-</div>
-
----
-
-## The Numbers That Matter
-
-<div align="center">
-
-| 10M+ Users Scaled | $2M ARR Generated | $2.8M Annual Savings | 75% Faster Time-to-Value |
-|:---:|:---:|:---:|:---:|
-| **25+ Features Shipped** | **85% On-Time Delivery** | **100K+ Enterprise Users** | **80-90% AI Adoption** |
 
 </div>
 
@@ -29,6 +19,18 @@ I'm a **Senior AI Product Manager** with 8+ years building and scaling **B2B Saa
 **I don't just manage products - I build prototypes, write SQL, design prompts, and ship side projects to stay close to the technology.**
 
 Currently at **Trinka AI**, owning product strategy across AI-powered writing tools, agent orchestration workflows, and model development lifecycle - leading a cross-functional team of **20+ engineers, data scientists, and designers**.
+
+---
+
+## The Numbers That Matter
+
+<div align="center">
+
+| 10M+ Users Scaled | $2M ARR Generated | $2.8M Annual Savings | 75% Faster Time-to-Value |
+|:---:|:---:|:---:|:---:|
+| **25+ Features Shipped** | **85% On-Time Delivery** | **100K+ Enterprise Users** | **80-90% AI Adoption** |
+
+</div>
 
 ---
 
@@ -165,5 +167,3 @@ Side projects to stay hands-on with emerging AI patterns:
 ![Profile Views](https://komarev.com/ghpvc/?username=vikast908&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6C63FF&height=120&section=footer)
