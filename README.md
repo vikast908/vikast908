@@ -16,7 +16,7 @@
 
 | 10M+ Users Scaled | $2M ARR Generated | $2.8M Annual Savings | 75% Faster Time-to-Value |
 |:---:|:---:|:---:|:---:|
-| **25+ Features Shipped** | **85% On-Time Delivery** | **100K+ Enterprise Users** | **80–90% AI Adoption** |
+| **25+ Features Shipped** | **85% On-Time Delivery** | **100K+ Enterprise Users** | **80-90% AI Adoption** |
 
 </div>
 
@@ -24,18 +24,18 @@
 
 ## About Me
 
-I'm a **Senior AI Product Manager** with 8+ years building and scaling **B2B SaaS** and **AI platform products**. I drive product strategy, discovery, and delivery — turning complex AI capabilities into products people actually use.
+I'm a **Senior AI Product Manager** with 8+ years building and scaling **B2B SaaS** and **AI platform products**. I drive product strategy, discovery, and delivery - turning complex AI capabilities into products people actually use.
 
-**I don't just manage products — I build prototypes, write SQL, design prompts, and ship side projects to stay close to the technology.**
+**I don't just manage products - I build prototypes, write SQL, design prompts, and ship side projects to stay close to the technology.**
 
-Currently at **Trinka AI**, owning product strategy across AI-powered writing tools, agent orchestration workflows, and model development lifecycle — leading a cross-functional team of **20+ engineers, data scientists, and designers**.
+Currently at **Trinka AI**, owning product strategy across AI-powered writing tools, agent orchestration workflows, and model development lifecycle - leading a cross-functional team of **20+ engineers, data scientists, and designers**.
 
 ---
 
 ## Career & Impact
 
 <details>
-<summary><b>Senior AI Product Manager — Trinka AI</b> &nbsp;(Dec 2025 – Present)</summary>
+<summary><b>Senior AI Product Manager - Trinka AI</b> &nbsp;(Dec 2025 - Present)</summary>
 <br/>
 
 - Own product strategy and delivery across Trinka Cloud, Desktop, and AI/ML platform
@@ -47,20 +47,20 @@ Currently at **Trinka AI**, owning product strategy across AI-powered writing to
 </details>
 
 <details>
-<summary><b>Product Manager — HowNow</b> &nbsp;(Jun 2022 – Oct 2025)</summary>
+<summary><b>Product Manager - HowNow</b> &nbsp;(Jun 2022 - Oct 2025)</summary>
 <br/>
 
 - **Shipped AI Skills Profile** (RAG + vector DB) → **80% adoption** in month one, sustained 90+ days
-- **Reduced enterprise time-to-value by 75%** — from 12 weeks down to 3 weeks
+- **Reduced enterprise time-to-value by 75%** - from 12 weeks down to 3 weeks
 - Built AI innovation division with self-hosted LLMs (Llama, DeepSeek) and open-source agent stack (LangChain, Langfuse, Langflow, n8n, Mem0)
 - Standardised **40K+ item taxonomy** using AI embeddings & cosine similarity → **60% dataset reduction**
-- **25+ feature launches**, 85% on-time delivery across 6–12 month planning cadence
+- **25+ feature launches**, 85% on-time delivery across 6-12 month planning cadence
 - Built content partnerships generating **£150K ARR**, cut churn by **15%**
 
 </details>
 
 <details>
-<summary><b>Lead Consultant — NDS Global</b> &nbsp;(Jan 2020 – Jun 2022)</summary>
+<summary><b>Lead Consultant - NDS Global</b> &nbsp;(Jan 2020 - Jun 2022)</summary>
 <br/>
 
 - Enterprise chatbot platform for **100K+ users** → **90% adoption** in 4 months → **$1.2M annual savings**
@@ -71,7 +71,7 @@ Currently at **Trinka AI**, owning product strategy across AI-powered writing to
 </details>
 
 <details>
-<summary><b>Business Analyst — Selekt</b> &nbsp;(Nov 2018 – Jan 2020)</summary>
+<summary><b>Business Analyst - Selekt</b> &nbsp;(Nov 2018 - Jan 2020)</summary>
 <br/>
 
 - Launched cross-marketing platform → DAU from **1.5K to 4K** (**167% growth**), **20% MoM** sustained 5 months
@@ -105,10 +105,10 @@ Side projects to stay hands-on with emerging AI patterns:
 
 | Project | What It Does | Tech |
 |:--------|:-------------|:-----|
-| [**ProductSnap**](https://github.com/vikast908/ProductSnap) | AI knowledge hub for PMs — aggregates 86 RSS feeds & 298 podcasts (4.5M+ words), RAG-powered answers with citations | `RAG` `React` `Express.js` `OAuth` |
-| [**Text2SQL**](https://github.com/vikast908/Text2SQL) | Natural language → SQL using LangGraph agent workflows, 16-table PostgreSQL schema | `LangGraph` `GPT-4o` `FastAPI` `React` |
-| [**SnapSite**](https://github.com/vikast908/SnapSite) | Chrome extension — save any web page as an offline ZIP with pixel-perfect accuracy, full-site crawl up to 500 pages | `Manifest V3` `JavaScript` `JSZip` |
-| [**ColorComic**](https://github.com/vikast908/ColorComic) | AI manga/comic colorizer — local processing, cross-page color consistency, optional 4x upscaling | `PyTorch` `Flask` `CUDA` `Real-ESRGAN` |
+| [**ProductSnap**](https://github.com/vikast908/ProductSnap) | AI knowledge hub for PMs - aggregates 86 RSS feeds & 298 podcasts (4.5M+ words), RAG-powered answers with citations | `RAG` `React` `Express.js` `OAuth` |
+| [**Text2SQL**](https://github.com/vikast908/Text2SQL) | Natural language to SQL using LangGraph agent workflows, 16-table PostgreSQL schema | `LangGraph` `GPT-4o` `FastAPI` `React` |
+| [**SnapSite**](https://github.com/vikast908/SnapSite) | Chrome extension - save any web page as an offline ZIP with pixel-perfect accuracy, full-site crawl up to 500 pages | `Manifest V3` `JavaScript` `JSZip` |
+| [**ColorComic**](https://github.com/vikast908/ColorComic) | AI manga/comic colorizer - local processing, cross-page color consistency, optional 4x upscaling | `PyTorch` `Flask` `CUDA` `Real-ESRGAN` |
 
 ---
 
