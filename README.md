@@ -107,10 +107,10 @@ Side projects to stay hands-on with emerging AI patterns:
 
 | Project | What It Does | Tech |
 |:--------|:-------------|:-----|
-| [**ProductSnap**](https://github.com/vikast908/ProductSnap) | AI knowledge hub for PMs - aggregates 86 RSS feeds & 298 podcasts (4.5M+ words), RAG-powered answers with citations | `RAG` `React` `Express.js` `OAuth` |
-| [**Text2SQL**](https://github.com/vikast908/Text2SQL) | Natural language to SQL using LangGraph agent workflows, 16-table PostgreSQL schema | `LangGraph` `GPT-4o` `FastAPI` `React` |
-| [**SnapSite**](https://github.com/vikast908/SnapSite) | Chrome extension - save any web page as an offline ZIP with pixel-perfect accuracy, full-site crawl up to 500 pages | `Manifest V3` `JavaScript` `JSZip` |
-| [**ColorComic**](https://github.com/vikast908/ColorComic) | AI manga/comic colorizer - local processing, cross-page color consistency, optional 4x upscaling | `PyTorch` `Flask` `CUDA` `Real-ESRGAN` |
+| [**ProductSnap**](https://github.com/vikast908/ProductSnap) | AI knowledge hub for PMs - aggregates 86 RSS feeds & 298 podcasts (4.5M+ words), RAG-powered answers with citations | `Python` `LangChain` `React` `Express.js` |
+| [**Text2SQL**](https://github.com/vikast908/Text2SQL) | Natural language to SQL using LangGraph agent workflows, 16-table PostgreSQL schema | `LangGraph` `FastAPI` `React` `PostgreSQL` |
+| [**SnapSite**](https://github.com/vikast908/SnapSite) | Chrome extension - save any web page as an offline ZIP with pixel-perfect accuracy, full-site crawl up to 500 pages | `JavaScript` `Chrome APIs` `JSZip` |
+| [**ColorComic**](https://github.com/vikast908/ColorComic) | AI manga/comic colorizer - local processing, cross-page color consistency, optional 4x upscaling | `Python` `PyTorch` `Flask` |
 
 ---
 
@@ -123,36 +123,49 @@ Side projects to stay hands-on with emerging AI patterns:
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud & Infrastructure**
+**Agent Orchestration & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langchain&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-6C63FF?style=flat-square&logoColor=white)
+
+**Cloud & Development**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Product & Analytics**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-276EF1?style=flat-square&logo=amplitude&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+**Analytics**
 
-## GitHub Stats
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-276EF1?style=flat-square&logo=amplitude&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-<div align="center">
+**Design & PM Tools**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vikast908&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
-</div>
+**Product Craft**
+
+![Strategy](https://img.shields.io/badge/Product_Strategy-6C63FF?style=flat-square)
+![Discovery](https://img.shields.io/badge/User_Research-6C63FF?style=flat-square)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-6C63FF?style=flat-square)
+![PRDs](https://img.shields.io/badge/PRDs_&_Specs-6C63FF?style=flat-square)
+![Prioritization](https://img.shields.io/badge/Prioritization_(RICE)-6C63FF?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-6C63FF?style=flat-square)
+![OKRs](https://img.shields.io/badge/OKRs_&_KPIs-6C63FF?style=flat-square)
+![GTM](https://img.shields.io/badge/Go--to--Market-6C63FF?style=flat-square)
+![Stakeholders](https://img.shields.io/badge/Stakeholder_Management-6C63FF?style=flat-square)
 
 ---
 
