@@ -2,7 +2,7 @@
 
 # Vikas Tiwari
 
-**Senior AI Product Manager | Building Products at the Intersection of AI & UX**
+**Senior AI Product Manager | Agentic AI, RAG & Platform Products**
 
 [![Portfolio](https://img.shields.io/badge/vikastw.com-Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikastw.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikast908)
