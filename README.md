@@ -126,7 +126,6 @@ Side projects to stay hands-on with emerging AI patterns:
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A6DC2?style=flat-square&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
 ![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-1A1A1A?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
@@ -145,6 +144,7 @@ Side projects to stay hands-on with emerging AI patterns:
 ![Mem0](https://img.shields.io/badge/Mem0-6C63FF?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=flat-square&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-1A1A1A?style=flat-square&logoColor=white)
 ![GBrain](https://img.shields.io/badge/GBrain-F26625?style=flat-square&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=flat-square&logoColor=white)
 
