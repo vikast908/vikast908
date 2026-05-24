@@ -120,13 +120,13 @@ Side projects to stay hands-on with emerging AI patterns:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A6DC2?style=flat-square&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
 ![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-1A1A1A?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
@@ -139,11 +139,14 @@ Side projects to stay hands-on with emerging AI patterns:
 **Agent Orchestration & Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Langflow](https://img.shields.io/badge/Langflow-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langchain&logoColor=white)
 ![Mem0](https://img.shields.io/badge/Mem0-6C63FF?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=flat-square&logoColor=white)
+![GBrain](https://img.shields.io/badge/GBrain-F26625?style=flat-square&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=flat-square&logoColor=white)
 
 **Cloud & Development**
 
