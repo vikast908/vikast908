@@ -14,7 +14,7 @@
 
 ## About Me
 
-Senior AI Product Manager with 8+ years building and scaling **B2B SaaS** and **AI platform products** — turning complex AI capabilities into products people actually use. I stay close to the tech: building prototypes, designing prompts, and shipping side projects.
+Senior AI Product Manager with 8+ years building and scaling **B2B SaaS** and **Agentic AI platform products** — turning complex AI capabilities into products people actually use. I stay close to the tech: building prototypes, designing prompts, and shipping side projects.
 
 Currently at **Trinka AI**, leading product strategy across AI writing tools, agent orchestration, and the model development lifecycle with a cross-functional team of 20+.
 
