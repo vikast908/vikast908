@@ -31,65 +31,9 @@ Currently at **Trinka AI**, leading product strategy across AI writing tools, ag
 
 ---
 
-## Experience
+## Experience & Projects
 
-<details>
-<summary><b>Senior AI Product Manager · Trinka AI</b> &nbsp;(Dec 2025 - Present)</summary>
-<br/>
-
-- Own product strategy and delivery across Trinka Cloud, Desktop, and the AI/ML platform
-- Lead agent orchestration workflows using n8n, Langflow, MCPs, and self-hosted LLMs
-- Own the model development lifecycle (training, testing, evaluation) for grammar correction and AI content detection
-- Mentor 4 junior PMs and manage a 20+ member cross-functional team (AI Engineers, Data Scientists, Frontend, Backend, Designers)
-
-</details>
-
-<details>
-<summary><b>Product Manager · HowNow</b> &nbsp;(Jun 2022 - Oct 2025)</summary>
-<br/>
-
-- Shipped AI Skills Profile (RAG + vector DB) → **80% adoption** in month one, sustained 90+ days
-- Reduced enterprise time-to-value by **75%** — from 12 weeks to 3
-- Built the AI innovation division with self-hosted LLMs (Llama, DeepSeek) and an open-source agent stack (LangChain, Langfuse, Langflow, n8n, Mem0)
-- Standardised a 40K+ item taxonomy with embeddings & cosine similarity → **60% dataset reduction**
-- 25+ feature launches at 85% on-time delivery; content partnerships generating **£150K ARR** and cutting churn 15%
-
-</details>
-
-<details>
-<summary><b>Lead Consultant · NDS Global</b> &nbsp;(Jan 2020 - Jun 2022)</summary>
-<br/>
-
-- Enterprise chatbot platform for 100K+ users → 90% adoption in 4 months → **$1.2M annual savings**
-- Onboarding automation saving **~$1.6M annually**, freeing ~3 hours/day in workforce capacity
-- Delivered SaaS analytics launches 3 weeks ahead of schedule, boosting adoption 40%
-- Promoted from Senior Consultant to Lead Consultant
-
-</details>
-
-<details>
-<summary><b>Business Analyst · Selekt</b> &nbsp;(Nov 2018 - Jan 2020)</summary>
-<br/>
-
-- Launched cross-marketing platform → DAU from 1.5K to 4K (**167% growth**), 20% MoM sustained 5 months
-- Designed visual chatbot builder → freemium conversion from 8% to 54% (**575% increase**), 94% faster time to first bot
-
-</details>
-
-> Full case-study write-ups with methodology and outcomes on [vikastw.com](https://vikastw.com)
-
----
-
-## What I Build
-
-Side projects to stay hands-on with emerging AI patterns:
-
-| Project | What It Does | Tech |
-|:--------|:-------------|:-----|
-| [**ProductSnap**](https://github.com/vikast908/ProductSnap) | AI knowledge hub for PMs — aggregates 86 RSS feeds & 298 podcasts (4.5M+ words), RAG-powered answers with citations | `Python` `LangChain` `React` `Express.js` |
-| [**Text2SQL**](https://github.com/vikast908/Text2SQL) | Natural language to SQL using LangGraph agent workflows, 16-table PostgreSQL schema | `LangGraph` `FastAPI` `React` `PostgreSQL` |
-| [**SnapSite**](https://github.com/vikast908/SnapSite) | Chrome extension — save any web page as an offline ZIP with pixel-perfect accuracy, full-site crawl up to 500 pages | `JavaScript` `Chrome APIs` `JSZip` |
-| [**ColorComic**](https://github.com/vikast908/ColorComic) | AI manga/comic colorizer — local processing, cross-page color consistency, optional 4x upscaling | `Python` `PyTorch` `Flask` |
+Full career history, case studies, and side projects live on my site → **[vikastw.com](https://vikastw.com)**
 
 ---
 
